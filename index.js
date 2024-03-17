@@ -37,7 +37,7 @@ client.on('ready', async () => {
   })
     .setApplicationId('1110523342479425636')
     .setType('STREAMING')
-    .setURL(`https://www.youtube.com/watch?v=S2TaAcwC_zI`)
+    .setURL(`https://www.twitch.tv/krishdgaf`)
     .setDetails(`it's been too long`)
     .setName(`it's been too long`)
     .setState(`How strange to dream of you even when I am wide awake!`)
