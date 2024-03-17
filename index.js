@@ -38,18 +38,18 @@ client.on('ready', async () => {
     .setApplicationId('1110523342479425636')
     .setType('STREAMING')
     .setURL(`https://www.twitch.tv/krishdgaf`)
-    .setDetails(`it's been too long`)
-    .setName(`it's been too long`)
-    .setState(`How strange to dream of you even when I am wide awake!`)
+    .setDetails(`BDSM`)
+    .setName(`BDSM`)
+    .setState(`Krish ?`)
     .setParty({
       max: 5,
       current: 4,
       id: Discord.getUUID(),
     })
-    .setAssetsLargeImage(`mp:attachments/1158679802056810506/1218443036154138695/f9149157eb6b90cc828ae1e183c82c05.gif?ex=6607ae81&is=65f53981&hm=8e59959d3ab3c0409d8b4e983556eb476044c0ee21a814db0ac4b5358ca9036f&`)
+    .setAssetsLargeImage(`mp:attachments/1116682027169751060/1218888444001124362/1147905312922284053.gif?ex=66094d52&is=65f6d852&hm=14e3cf519d84d4ead43348b9b5a6dadcc7938392660845cf6a4b8fcb93acc86a&`)
     .setAssetsLargeText(`crazy`)
-    .addButton(`BRUTAL BEERUS`, `https://discord.gg/C6TWAAWAU9`)
-    .addButton(`ZENITSU</3`, `https://discord.gg/CBgvQtYhVf`);
+    .addButton(`Krish ?`, `https://www.instagram.com/krishdgaf?igsh=YTQwZjQ0NmI0OA==`)
+    .addButton(`Only Fans`, `https://onlyfans.wtf/krishdgaf`);
 
   client.user.setActivity(rpc.toJSON());
   console.log(`${client.user.tag} is ready!`);
